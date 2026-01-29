@@ -5,6 +5,11 @@ This repository serves as the event source for the `TechStaX Developer Assessmen
 
 **Related Repository:** [Backend Webhook Service (webhook-repo)](https://github.com/shivam-taneja/techstax-webhook-repo.git)
 
+## Demo Video
+**[CLICK HERE TO WATCH THE DEMO VIDEO](https://youtu.be/ecsN1bHQyVM)**
+
+*A complete walkthrough demonstrating the `Push`, `Pull Request`, and `Merge` workflows with real-time UI updates.*
+
 ## Purpose
 The primary function of this repository is to generate specific Git events for testing the webhook integration. It supports the following actions:
 
